@@ -115,7 +115,7 @@ async def start_comm(client, message: Message, _):
                 sender_name = message.from_user.first_name
                 return await app.send_message(
                     config.LOG_GROUP_ID,
-                    f"{message.from_user.mention} has just started bot to check <code>SUDOLIST</code>\n\n**USER ID:** {sender_id}\n**USER NAME:** {sender_name}",
+                    f"{message.from_user.mention} ᴜsɴᴇ ᴀʙʜɪ ᴍᴇʀᴇᴋᴏ sᴛᴀʀᴛ ᴋɪʏᴀ ʜ ʀᴇ ᴄʜᴇᴄᴋ ᴋᴀʀ ʟᴇ <code>SUDOLIST</code>\n\n**ᴜsᴇʀ ɪᴅ:** {sender_id}\n**ᴜsᴇʀ ɴᴀᴍᴇ:** {sender_name}",
                 )
             return
         if name[0:3] == "lyr":
@@ -147,26 +147,26 @@ async def start_comm(client, message: Message, _):
                 link = result["link"]
                 published = result["publishedTime"]
             searched_text = f"""
-🔍__**Video Track Information**__
+🔍__**ᴛʀᴀᴄᴋ ɪɴғᴏʀᴍᴀᴛɪᴏɴ**__
 
-❇️**Title:** {title}
+❇️**ᴛɪᴛᴛʟᴇ:** {title}
 
-⏳**Duration:** {duration} Mins
-👀**Views:** `{views}`
-⏰**Published Time:** {published}
-🎥**Channel Name:** {channel}
-📎**Channel Link:** [Visit From Here]({channellink})
-🔗**Video Link:** [Link]({link})
+⏳**ᴅᴜʀᴀᴛɪᴏɴ:** {duration} Mins
+👀**ᴠɪᴇᴡs:** `{views}`
+⏰**ᴘᴜʙʟɪsʜᴇᴅ ᴛɪᴍᴇ:** {published}
+🎥**ᴄʜᴀɴɴᴇʟ ɴᴀᴍᴇ:** {channel}
+📎**ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ:** [Visit From Here]({channellink})
+🔗**ʟɪɴᴋ:** [Link]({link})
 
-⚡️ __Searched Powered By {config.MUSIC_BOT_NAME}__"""
+⚡️ __sᴇʀᴄʜᴇᴅ ʙʏ {config.MUSIC_BOT_NAME}__"""
             key = InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="🎥 Watch ", url=f"{link}"
+                            text="🎥 ᴅᴇᴋʜ ʟᴇ", url=f"{link}"
                         ),
                         InlineKeyboardButton(
-                            text="🔄 Close", callback_data="close"
+                            text="🔄 ʙᴀɴᴅ", callback_data="close"
                         ),
                     ],
                 ]
