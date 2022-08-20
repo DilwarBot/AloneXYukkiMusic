@@ -212,13 +212,13 @@ async def usage_dynos(client, message, _):
     AppMinutes = math.floor(AppQuotaUsed % 60)
     await asyncio.sleep(1.5)
     text = f"""
-**DYNO USAGE**
+**ᴅʏɴᴏ ᴜsᴀɢᴇ**
 
-<u>Usage:</u>
-Total Used: `{AppHours}`**h**  `{AppMinutes}`**m**  [`{AppPercentage}`**%**]
+<u>ᴜsᴀɢᴇ:</u>
+ᴛᴏᴛᴀʟ ᴜsᴀɢᴇ: `{AppHours}`**h**  `{AppMinutes}`**m**  [`{AppPercentage}`**%**]
 
-<u>Remaining Quota:</u>
-Total Left: `{hours}`**h**  `{minutes}`**m**  [`{percentage}`**%**]"""
+<u>ʀᴇᴍᴀɪɴɪɴɢ ǫᴜᴏᴛᴀ:</u>
+ᴛᴏᴛᴀʟ ʟᴇғᴛ: `{hours}`**h**  `{minutes}`**m**  [`{percentage}`**%**]"""
     return await dyno.edit(text)
 
 
@@ -346,6 +346,6 @@ async def restart_(_, message):
     except:
         pass
     await response.edit(
-        "Reboot has been initiated successfully! Wait for 1 - 2 minutes until the bot restarts."
+        "ᴛᴇᴀᴍ Sᴜᴋᴜɴ ʙᴏᴛ ɪs ʀᴇsᴛᴀʀᴛᴇᴅ! 1 - 2 ᴍɪɴs ʟᴜᴋᴜ ʏᴀᴀʟ."
     )
     os.system(f"kill -9 {os.getpid()} && bash start")
