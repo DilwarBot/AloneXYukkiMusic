@@ -57,15 +57,15 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("TeamYukki")
-                await self.one.join_chat("TheYukki")
-                await self.one.join_chat("YukkiSupport")
+                await self.one.join_chat("sukunsupports")
+                await self.one.join_chat("sukunupdates")
+                await self.one.join_chat("sukunlogs")
             except:
                 pass
             assistants.append(1)
             try:
                 await self.one.send_message(
-                    config.LOG_GROUP_ID, "Assistant Started"
+                    config.LOG_GROUP_ID, "Sᴜᴋᴜɴ 1sᴛ ᴀssɪᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ ᴇɴᴊᴏʏ @sukunsupports ."
                 )
             except:
                 LOGGER(__name__).error(
@@ -88,15 +88,15 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("TeamYukki")
-                await self.two.join_chat("TheYukki")
-                await self.two.join_chat("YukkiSupport")
+                await self.two.join_chat("sukunsupports")
+                await self.two.join_chat("sukunupdates")
+                await self.two.join_chat("sukunlogs")
             except:
                 pass
             assistants.append(2)
             try:
                 await self.two.send_message(
-                    config.LOG_GROUP_ID, "Assistant Started"
+                    config.LOG_GROUP_ID, "Sᴜᴋᴜɴ 2ɴᴅ ᴀssɪᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ ᴇɴᴊᴏʏ @sukunsupports ."
                 )
             except:
                 LOGGER(__name__).error(
@@ -119,15 +119,15 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("TeamYukki")
-                await self.three.join_chat("TheYukki")
-                await self.three.join_chat("YukkiSupport")
+                await self.three.join_chat("sukunsupports")
+                await self.three.join_chat("sukunupdates")
+                await self.three.join_chat("sukunlogs")
             except:
                 pass
             assistants.append(3)
             try:
                 await self.three.send_message(
-                    config.LOG_GROUP_ID, "Assistant Started"
+                    config.LOG_GROUP_ID, "Sᴜᴋᴜɴ 3ʀᴅ ᴀssɪᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ ᴇɴᴊᴏʏ @sukunsupports ."
                 )
             except:
                 LOGGER(__name__).error(
@@ -150,15 +150,15 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("TeamYukki")
-                await self.four.join_chat("TheYukki")
-                await self.four.join_chat("YukkiSupport")
+                await self.four.join_chat("sukunsupports")
+                await self.four.join_chat("sukunupdates")
+                await self.four.join_chat("sukunlogs")
             except:
                 pass
             assistants.append(4)
             try:
                 await self.four.send_message(
-                    config.LOG_GROUP_ID, "Assistant Started"
+                    config.LOG_GROUP_ID, "Sᴜᴋᴜɴ 4ᴛʜ ᴀssɪᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ ᴇɴᴊᴏʏ @sukunsupports ."
                 )
             except:
                 LOGGER(__name__).error(
@@ -181,15 +181,15 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("TeamYukki")
-                await self.five.join_chat("TheYukki")
-                await self.five.join_chat("YukkiSupport")
+                await self.five.join_chat("sukunsupports")
+                await self.five.join_chat("sukunupdates")
+                await self.five.join_chat("sukunlogs")
             except:
                 pass
             assistants.append(5)
             try:
                 await self.five.send_message(
-                    config.LOG_GROUP_ID, "Assistant Started"
+                    config.LOG_GROUP_ID, "Sᴜᴋᴜɴ 5ᴛʜ ᴀssɪᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ ᴇɴᴊᴏʏ @sukunsupports ."
                 )
             except:
                 LOGGER(__name__).error(
