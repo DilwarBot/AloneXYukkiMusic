@@ -38,9 +38,9 @@ async def auto_leave():
                             chat_id = i.chat.id
                             if (
                                 chat_id != config.LOG_GROUP_ID
-                                and chat_id != -1001190342892
-                                and chat_id != -1001733534088
-                                and chat_id != -1001443281821
+                                and chat_id != -1001652206129
+                                and chat_id != -1001652206129
+                                and chat_id != -1001652206129
                             ):
                                 if left == 20:
                                     continue
@@ -79,7 +79,7 @@ async def auto_end():
                 try:
                     await app.send_message(
                         chat_id,
-                        "Bot has left voice chat due to inactivity to avoid overload on servers. No-one was listening to the bot on voice chat.",
+                        "ɢᴜʏs ᴋᴏɪ sᴏɴɢ sᴜɴ ɴʜɪ ʟᴀʜᴀ ʜ ғɪʟʜᴀᴀʟ ɪᴄʜʟɪʏᴇ ᴍᴇ ɪs ɢᴏɪɴɢ ɢᴏɪɴɢ ᴛᴀᴋɪ ᴏᴠᴇʀʟᴏᴀᴅ ɴᴏɪ ʜᴏ ᴏᴛᴇʏ ɴᴀ ʙᴜɪ ʙᴜɪ .\n ᴛǫ ᴍᴇʟᴇ ʙᴏᴛ ᴋᴘ ᴜsᴇ ᴋᴀʀɴᴇ ᴋᴇ ʟɪʏᴇ .\n ᴋᴇᴇᴘ sᴜᴘᴘᴏʀᴛɪɴɢ [ᴛᴇᴀᴍ sᴜᴋᴜɴ](https://t.me/sukunupdates) . ",
                     )
                 except:
                     continue
