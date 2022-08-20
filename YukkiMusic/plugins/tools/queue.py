@@ -101,12 +101,12 @@ async def ping_com(client, message: Message, _):
         if DUR == "Unknown"
         else "\nClick on button below to get whole queued list."
     )
-    cap = f"""**{config.MUSIC_BOT_NAME} Player**
+    cap = f"""**{config.MUSIC_BOT_NAME} ᴘʟᴀʏᴇʀ**
 
-🎥**Playing:** {title}
+🎥**ᴘʟᴀʏɪɴɢ:** {title}
 
-🔗**Stream Type:** {typo}
-🙍‍♂️**Played By:** {user}
+🔗**sᴛʀᴇᴀᴍ ᴛʏᴘᴇ:** {typo}
+🙍‍♂️**ᴘʟᴀʏᴇᴅ ʙʏ:** {user}
 {send}"""
     upl = (
         queue_markup(_, DUR, "c" if cplay else "g", videoid)
@@ -281,12 +281,12 @@ async def queue_back(client, CallbackQuery: CallbackQuery, _):
         if DUR == "Unknown"
         else "\nClick on button below to get whole queued list."
     )
-    cap = f"""**{config.MUSIC_BOT_NAME} Player**
+    cap = f"""**{config.MUSIC_BOT_NAME} ᴘʟᴀʏᴇʀ**
 
-🎥**Playing:** {title}
+🎥**ᴘʟᴀʏɪɴɢ:** {title}
 
-🔗**Stream Type:** {typo}
-🙍‍♂️**Played By:** {user}
+🔗**sᴛʀᴇᴀᴍ ᴛʏᴘᴇ:** {typo}
+🙍‍♂️**ᴘʟᴀʏᴇᴅ ʙʏ:** {user}
 {send}"""
     upl = (
         queue_markup(_, DUR, cplay, videoid)
