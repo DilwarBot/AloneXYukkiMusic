@@ -338,9 +338,9 @@ QU_B_2 : "ᴘʟᴀʏᴇᴅ {0} ᴏᴜᴛ ᴏғ {1} ᴍɪɴs"
 # Sudo Users [ If you are translating this to some other language .. you can leave all these strings in english language]
 
 #Sudo
-sudo_1 : "{0} is already a sudo user."
-sudo_2 : "Added **{0}** to Sudo Users." 
-sudo_3 : "Not a part of Bot's Sudo."
+sudo_1 : "{0} ʏᴇʜ ᴘʜʟᴇ ᴄʜᴇ ʜɪ sᴜᴅᴏ ᴜsᴇʀ ʜ ʏᴀᴀʟ."
+sudo_2 : "ᴀᴅᴅ ʜᴏ ɢʏᴀ **{0}** sᴜᴅᴏ ᴜsᴇʀs ᴍᴇ." 
+sudo_3 : "ʙᴏᴛ's sᴜᴅᴏ ᴋᴀ ᴘᴀʀᴛ ɴᴏɪ ʜ ."
 sudo_4 : "Removed from Bot's Sudo User"
 sudo_5 : "⭐️<u> **Owners:**</u>\n"
 sudo_6 : "\n⭐️<u> **Sudo Users:**</u>\n"
