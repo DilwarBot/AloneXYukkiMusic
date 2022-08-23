@@ -377,9 +377,9 @@ maint_2 : "ᴇɴᴀʙʟᴇᴅ ғᴏʀ ᴍᴀɪɴᴛᴀɴᴄᴇ"
 maint_3 : "ᴍᴀɪɴᴛᴀɴᴇɴᴄᴇ ᴍᴏᴅᴇ ᴅɪsᴀʙʟᴇᴅ"
 
 #log
-log_1 : "**Usage:**\n/logger [enable|disable]"
-log_2 : "Enabled Logging"
-log_3 : "Logging Disabled"
+log_1 : "**ᴜᴀsɢᴇ:**\n/logger [enable|disable]"
+log_2 : "ʟᴏɢɢɪɴɢ sʜᴜʀᴜ. \nᴛǫ ғᴏʀ ᴜsɪɴɢ ᴛᴇᴀᴍ sᴜᴋᴜɴ ᴍᴜsɪᴄ ʀᴇᴘᴏ @sukunupdates @sukunsupports "
+log_3 : "ʟᴏɢɢɪɴɢ ʙᴀɴᴅ ʜᴜɪɪɪ"
 
 #videomode
 vidmode_1 : "**Usage:**\n/videomode [download|m3u8]"
