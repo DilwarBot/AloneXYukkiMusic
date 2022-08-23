@@ -366,10 +366,10 @@ black_7 : "**ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛs:**\n\n"
 black_8 : "ᴋᴏɪ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛs ɴᴏɪ ʜ"
 
 #videolimit
-vid_1 : "**Usage:**\n/set_video_limit [Number of chats allowed] or [Disable]"
-vid_2 : "Please Use Numeric Numbers for Setting Limit."
-vid_3 : "Video Calls Maximum Limit Defined to {0} Chats."
-vid_4 : "Video Calls Disabled"
+vid_1 : "**ᴜsᴀɢᴇ:**\n/set_video_limit [Number of chats allowed] or [Disable]"
+vid_2 : "ɪs sᴇᴛᴛɪɴɢ ᴋᴇ ʟɪʏᴇ ɴᴜᴍʙᴇʀs ᴍᴇ ᴅᴀʟɴᴀ ʜᴏᴛᴀ ʜ."
+vid_3 : "ᴠɪᴅᴇᴏ ᴄᴀʟʟs ᴍᴀxɪᴍᴜᴍ ʟɪᴍɪᴛs {0} ᴄʜᴀᴛs ᴛᴀᴋ ʜᴏ ɢʏᴀ ʏᴀᴀʟ."
+vid_4 : "ᴠɪᴅᴇᴏ ᴄᴀʟʟ ᴅɪsᴀʙʟᴇᴅ ʜᴏ ɢʏᴀ ʏᴀᴀʟ"
 
 #maintenance
 maint_1 : "**Usage:**\n/maintenance [enable|disable]"
