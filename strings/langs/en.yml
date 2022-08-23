@@ -383,7 +383,7 @@ log_3 : "ʟᴏɢɢɪɴɢ ʙᴀɴᴅ ʜᴜɪɪɪ"
 
 #videomode
 vidmode_1 : "**ᴜsᴀɢᴇ:**\n/videomode [download|m3u8]"
-vidmode_2 : "Video Play Mode set as downloader. Bot will be downloading tracks now."
+vidmode_2 : "ᴠɪᴅᴇᴏ ᴘʟᴀʏ ᴍᴏᴅᴇ sᴇᴛ ᴀs ᴅᴏᴡɴʟᴏᴀᴅᴇʀ. ʙᴏᴛ ᴡɪʟʟ ʙᴇ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴛʀᴀᴄᴋs ɴᴏᴡ."
 vidmode_3 : "Video Play Mode set as m3u8. Bot will be play tracks live now."
 
 #broadcast
