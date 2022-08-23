@@ -357,13 +357,13 @@ block_7 : "**ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀs:**\n\n"
 
 #Blacklist Chats
 black_1 : "**ᴜsᴀɢᴇ:**\n/blacklistchat [CHAT_ID]"
-black_2 : "Chat is already blacklisted."
-black_3 : "Chat has been successfully blacklisted"
-black_4 : "**Usage:**\n/whitelistchat [CHAT_ID]"
-black_5 : "Chat is already whitelisted."
-black_6 : "Chat has been successfully whitelisted"
-black_7 : "**Blacklisted Chats:**\n\n"
-black_8 : "No Blacklisted Chats"
+black_2 : "ʏᴇʜ ᴄʜᴀᴛ ᴀʟʀᴇᴀᴅʏ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ʜ ʏᴀᴀʟ."
+black_3 : "ʏᴇʜ ᴄʜᴀᴛ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ʜᴏ ɢʏᴀ"
+black_4 : "**ᴜsᴀɢᴇ:**\n/whitelistchat [CHAT_ID]"
+black_5 : "ʏᴇʜ ᴄʜᴀᴛ ᴀʟʀᴇᴀᴅʏ ᴡʜɪᴛᴇʟɪsᴛᴇᴅ ʜ ʏᴀᴀʟ."
+black_6 : "ʏᴇʜ ᴄʜᴀᴛ ᴡʜɪᴛᴇʟɪsᴛᴇᴅ ʜᴏ ɢʏᴀ"
+black_7 : "**ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛs:**\n\n"
+black_8 : "ᴋᴏɪ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛs ɴᴏɪ ʜ"
 
 #videolimit
 vid_1 : "**Usage:**\n/set_video_limit [Number of chats allowed] or [Disable]"
