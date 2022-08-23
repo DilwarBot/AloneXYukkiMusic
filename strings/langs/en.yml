@@ -9,8 +9,8 @@ general_5 : "ɪs ᴀᴄᴛɪᴏɴ ᴋᴏ ᴋᴀʟɴᴇ ᴋᴇ ʟɪʏᴇ ᴘʜᴇ
 general_6 : "Mᴀɪɴ ᴋᴜᴄʜ ɴᴏɪ ʙᴀᴊᴀ ʟᴀʜᴀ ʜᴜ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴍᴇ."
 
 # Classes - Telegram.py
-tg_1 : "Bot is **overloaded** with downloads right now.\n\n**Try After:** {0} (__expected time__)"
-tg_2 : "Failed to download the media from telegram."
+tg_1 : "ʀᴜᴋᴜ ᴍᴇʀᴇ ᴋᴏ **ᴏᴠᴇʀʟᴏᴀᴅᴇᴅ** ʜᴏ ɢʏᴀ ʏᴀᴀʟ.\n\n**ᴛʀʏ ᴀғᴛᴇʀ:** {0} (__expected time__)"
+tg_2 : "ᴛᴇʟᴇɢʀᴀᴍ ᴋᴇ ᴍᴇᴅɪᴀ ᴋᴏ ᴅᴏᴡɴʟᴏᴀᴅ ɴᴏɪ ᴋᴀʟ ᴘᴀᴀʏᴀ sᴏʟʟʏ.."
 
 # Core - Call.py
 call_1 : "Bot requires **Admin** Permission to invite assistant account to your channel."
