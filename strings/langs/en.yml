@@ -5,8 +5,8 @@ general_1 : "ᴜsᴇʀ ᴋᴇ ᴍsɢ ᴘᴇ ʀᴇᴘʟʏ ᴋᴀʟʟᴏ ʏᴀ ᴜ
 general_2 : "ᴇʀʀᴏʀ! ᴄᴏᴍᴍᴀɴᴅ ᴋᴀ ɢᴀʟᴀᴛ ᴜsᴇ ɴᴏɪ ᴋᴀʟᴛᴇ."
 general_3 : "ᴋᴜᴄʜ **ᴇxᴄᴇᴘᴛɪᴏɴ ᴏᴄᴄᴜʀᴇᴅ** ʜᴏ ʟᴀʜᴀ ʜ ᴀᴀᴘᴋᴀ ǫᴜᴇʀʏ ᴋᴏ ᴋᴀʟɴᴇ ᴍᴇ.\n\nᴇxᴄᴇᴘᴛɪᴏɴ ᴛʏᴘᴇ:- {0}"
 general_4 : "Uʜ ᴀɴᴏɴʏᴍᴏᴜs ᴀᴅᴍɪɴ ʜᴏ ɴᴀ ɪs ɢᴜʟᴜᴘ ᴍᴇ \nᴘʜᴇʟᴇ ᴊᴀʟᴅɪ ᴄʜᴇ ᴀᴅᴍɪɴ ʀɪɢʜᴛs ᴍᴇ ᴊᴀᴀᴋᴇ ᴋᴀʟ ᴡᴀᴘᴀs ᴋᴀʟʟᴏ ᴜsᴇʀ ᴀᴄᴄᴏᴜɴᴛ ᴘᴇ ᴘʜɪʀ ᴋᴀʟʟᴏ ᴏᴛᴇʏ."
-general_5 : "You need to be admin with manage voice chat rights to perform this action."
-general_6 : "Bot isn't streaming on voice chat."
+general_5 : "ɪs ᴀᴄᴛɪᴏɴ ᴋᴏ ᴋᴀʟɴᴇ ᴋᴇ ʟɪʏᴇ ᴘʜᴇʟᴇ ᴀᴅᴍɪɴsʜɪᴘ ʟᴇᴋᴇ ᴀᴀᴏ ᴍᴀɴᴀɢᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴡᴀʟᴇ ʀɪɢʜᴛs ᴋʀ sᴀᴀᴛʜ."
+general_6 : "Mᴀɪɴ ᴋᴜᴄʜ ɴᴏɪ ʙᴀᴊᴀ ʟᴀʜᴀ ʜᴜ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴍᴇ."
 
 # Classes - Telegram.py
 tg_1 : "Bot is **overloaded** with downloads right now.\n\n**Try After:** {0} (__expected time__)"
