@@ -348,8 +348,8 @@ sudo_7 : "ɴᴏ sᴜᴅᴏ ᴜsᴇʀs"
 
 #Block
 block_1 : "{0} ɪssᴇ ᴍᴀɪɴᴇ ᴀʟʀᴇᴀᴅʏ ʙʟᴏᴄᴋᴇᴅ ᴋɪʏᴀ ʜᴜᴀ ʜ ʏᴀᴀʟ."
-block_2 : "Added **{0}** to Block List of bot. User won't be able to use bot now under any condition.\n\nCheck blocked users: /blockedusers"
-block_3 : "User is already free and not blocked."
+block_2 : "ᴀᴅᴅ ᴋᴀʟ ᴅɪʏᴀ *{0}** ᴋᴏ ᴍᴀɪɴᴇ. ʏᴇʜ ᴍᴇʟᴀ ᴜsᴇ ɴʜɪ ᴋᴀʟ ᴘᴀᴀʏᴇɢᴀ ᴋᴀʙʜɪ ʙʜɪ.\n\nᴄʜᴇᴄᴋ ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀs: /blockedusers"
+block_3 : "ʏᴇʜ ᴜsᴇʀ ғʀᴇᴇ ʜ ᴀᴜʀ ʙʟᴏᴄᴋ ʙʜɪ ɴᴏɪ ʜ."
 block_4 : "Removed User from the block list. User will be able to use bot now."
 block_5 : "No Blocked Users Found"
 block_6 : "Getting Blocked Users List.. Please Wait"
