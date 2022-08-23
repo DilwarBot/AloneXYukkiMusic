@@ -372,9 +372,9 @@ vid_3 : "ᴠɪᴅᴇᴏ ᴄᴀʟʟs ᴍᴀxɪᴍᴜᴍ ʟɪᴍɪᴛs {0} ᴄʜ�
 vid_4 : "ᴠɪᴅᴇᴏ ᴄᴀʟʟ ᴅɪsᴀʙʟᴇᴅ ʜᴏ ɢʏᴀ ʏᴀᴀʟ"
 
 #maintenance
-maint_1 : "**Usage:**\n/maintenance [enable|disable]"
-maint_2 : "Enabled for Maintenance"
-maint_3 : "Maintenance Mode Disabled"
+maint_1 : "**ᴜsᴀɢᴇ:**\n/maintenance [enable|disable]"
+maint_2 : "ᴇɴᴀʙʟᴇᴅ ғᴏʀ ᴍᴀɪɴᴛᴀɴᴄᴇ"
+maint_3 : "ᴍᴀɪɴᴛᴀɴᴇɴᴄᴇ ᴍᴏᴅᴇ ᴅɪsᴀʙʟᴇᴅ"
 
 #log
 log_1 : "**Usage:**\n/logger [enable|disable]"
