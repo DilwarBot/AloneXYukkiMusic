@@ -13,8 +13,8 @@ tg_1 : "ʀᴜᴋᴜ ᴍᴇʀᴇ ᴋᴏ **ᴏᴠᴇʀʟᴏᴀᴅᴇᴅ** ʜᴏ ɢ
 tg_2 : "ᴛᴇʟᴇɢʀᴀᴍ ᴋᴇ ᴍᴇᴅɪᴀ ᴋᴏ ᴅᴏᴡɴʟᴏᴀᴅ ɴᴏɪ ᴋᴀʟ ᴘᴀᴀʏᴀ sᴏʟʟʏ.."
 
 # Core - Call.py
-call_1 : "Bot requires **Admin** Permission to invite assistant account to your channel."
-call_2 : "Assistant is banned in your group or channel, please unban.\n\n**Assistant Username:** @{0}\n**Assistant ID:** {1}"
+call_1 : "ᴍᴇʟᴇ ᴋᴏ **Admin** ʙᴀɴᴀᴏ ʏᴀᴀʟ ᴛᴀᴀᴋɪ ᴀssɪᴛᴀɴᴛ ᴋᴇ ɪᴅ sᴇ ᴠᴄ ᴀᴀ ᴘᴀᴜᴜ ᴄʜᴀɴɴᴇʟ ᴘᴇ."
+call_2 : "ᴏᴏʏᴇ ᴍᴇʟᴇ ɪs ɪᴅ ᴋᴏ ʙᴀɴ ᴛʏᴜ ᴛɪʏᴀ ɢɴɴᴇ ʟᴏɢ sᴏᴍɢ ᴋᴀɪsᴇ ʙᴀᴊᴀᴜɴɢᴀ, ᴊᴀʟᴅɪ sᴇ ᴜɴʙᴀɴ ᴋᴀʟʟᴏ.\n\n**ᴍᴇʟᴇ ᴀssɪᴛᴀɴᴛ ɪᴅ ᴋᴀ ᴜsᴇʀɴᴀᴍᴇ:** @{0}\n**ʏᴇʜ ᴀssɪᴛᴀɴᴛ ᴋᴀ ɪᴅ:** {1}"
 call_3 : "Exception Occured While Inviting Assistant Account to your chat.\n\n**Reason**: {0}"
 call_4 : "Bot requires **Invite Users Via Link** Permission to invite assistant account to your chat group."
 call_5 : "Assistant Account will be joining in 5 Seconds..Please Wait!"
