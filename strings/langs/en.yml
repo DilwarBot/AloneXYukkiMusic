@@ -412,8 +412,8 @@ heroku_14 : "Git Command Error"
 heroku_15 : "Invalid Git Repsitory"
 
 #Private bot mode
-pbot_1 : "**Usage:**\n/authorize [CHAT_ID]"
-pbot_2 :  "**Usage:**\n/unauthorize [CHAT_ID]"
+pbot_1 : "**ᴜsᴀɢᴇ:**\n/authorize [CHAT_ID]"
+pbot_2 :  "**ᴜsᴀɢᴇ:**\n/unauthorize [CHAT_ID]"
 pbot_3 : "Added given chat to authorized list"
 pbot_4 : "Removed given chat from authorized list"
 pbot_5 : "Chat is already in the authorized list"
