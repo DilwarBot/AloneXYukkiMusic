@@ -15,8 +15,8 @@ tg_2 : "ᴛᴇʟᴇɢʀᴀᴍ ᴋᴇ ᴍᴇᴅɪᴀ ᴋᴏ ᴅᴏᴡɴʟᴏᴀ�
 # Core - Call.py
 call_1 : "ᴍᴇʟᴇ ᴋᴏ **Admin** ʙᴀɴᴀᴏ ʏᴀᴀʟ ᴛᴀᴀᴋɪ ᴀssɪᴛᴀɴᴛ ᴋᴇ ɪᴅ sᴇ ᴠᴄ ᴀᴀ ᴘᴀᴜᴜ ᴄʜᴀɴɴᴇʟ ᴘᴇ."
 call_2 : "ᴏᴏʏᴇ ᴍᴇʟᴇ ɪs ɪᴅ ᴋᴏ ʙᴀɴ ᴛʏᴜ ᴛɪʏᴀ ɢɴɴᴇ ʟᴏɢ sᴏᴍɢ ᴋᴀɪsᴇ ʙᴀᴊᴀᴜɴɢᴀ, ᴊᴀʟᴅɪ sᴇ ᴜɴʙᴀɴ ᴋᴀʟʟᴏ.\n\n**ᴍᴇʟᴇ ᴀssɪᴛᴀɴᴛ ɪᴅ ᴋᴀ ᴜsᴇʀɴᴀᴍᴇ:** @{0}\n**ʏᴇʜ ᴀssɪᴛᴀɴᴛ ᴋᴀ ɪᴅ:** {1}"
-call_3 : "Exception Occured While Inviting Assistant Account to your chat.\n\n**Reason**: {0}"
-call_4 : "Bot requires **Invite Users Via Link** Permission to invite assistant account to your chat group."
+call_3 : "ᴇxᴄᴇᴘᴛɪᴏɴ ᴏᴄᴄᴜʀᴇᴅ ᴀssɪᴛᴀɴᴛ ᴋᴏ ʙᴜʟᴀ ɴᴏɪ ᴘᴀᴀ ʟᴀʜᴀ ʜᴜ ɪs ɢᴜʟᴜᴘ ᴍᴇ .\n\n**ʀᴇᴀsᴏɴ**: {0}"
+call_4 : "ᴍᴇʟᴇ ᴋᴏ **ɪɴᴠɪᴛᴇ ᴜsᴇʀ ᴠɪᴀ ʟɪɴᴋ** ᴘᴇʀᴍɪssɪᴏɴ ᴅᴏ ᴛᴀᴀʙʜɪ ᴍᴀɪɴ ᴀssɪᴛᴀɴᴛ ɪᴅ ᴋᴏ ɪs ɢᴜʟᴜᴘ ᴍᴇ ʟᴀᴀ ᴘᴀᴜɴɢᴀ ɴᴀ."
 call_5 : "Assistant Account will be joining in 5 Seconds..Please Wait!"
 call_6 : "Assistant Account[{0}] Joined Successfully.\n\nStarting Music Now"
 call_7 : "**Harmful Admin Right Given **\n\nPlease remove **BAN USERS** rights from the bot."
