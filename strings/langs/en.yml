@@ -356,7 +356,7 @@ block_6 : "ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀs ʟɪsᴛ ɴɪᴋᴀᴀʟ ʟᴀʜᴀ ʜ
 block_7 : "**ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀs:**\n\n"
 
 #Blacklist Chats
-black_1 : "**Usage:**\n/blacklistchat [CHAT_ID]"
+black_1 : "**ᴜsᴀɢᴇ:**\n/blacklistchat [CHAT_ID]"
 black_2 : "Chat is already blacklisted."
 black_3 : "Chat has been successfully blacklisted"
 black_4 : "**Usage:**\n/whitelistchat [CHAT_ID]"
