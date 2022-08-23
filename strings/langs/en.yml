@@ -18,12 +18,12 @@ call_2 : "ᴏᴏʏᴇ ᴍᴇʟᴇ ɪs ɪᴅ ᴋᴏ ʙᴀɴ ᴛʏᴜ ᴛɪʏᴀ �
 call_3 : "ᴇxᴄᴇᴘᴛɪᴏɴ ᴏᴄᴄᴜʀᴇᴅ ᴀssɪᴛᴀɴᴛ ᴋᴏ ʙᴜʟᴀ ɴᴏɪ ᴘᴀᴀ ʟᴀʜᴀ ʜᴜ ɪs ɢᴜʟᴜᴘ ᴍᴇ .\n\n**ʀᴇᴀsᴏɴ**: {0}"
 call_4 : "ᴍᴇʟᴇ ᴋᴏ **ɪɴᴠɪᴛᴇ ᴜsᴇʀ ᴠɪᴀ ʟɪɴᴋ** ᴘᴇʀᴍɪssɪᴏɴ ᴅᴏ ᴛᴀᴀʙʜɪ ᴍᴀɪɴ ᴀssɪᴛᴀɴᴛ ɪᴅ ᴋᴏ ɪs ɢᴜʟᴜᴘ ᴍᴇ ʟᴀᴀ ᴘᴀᴜɴɢᴀ ɴᴀ."
 call_5 : "ᴀssɪᴛᴀɴᴛ ɪᴅ ᴄʜᴇ ᴀᴀ ʟᴀʜᴀ ʜᴜ ᴍᴇʟᴇ sᴀᴀᴛʜ ᴄᴏᴜɴᴛ ᴋᴀʟʟᴏ 1 2 3 4 5... ᴛʜɪs ɪs ɴᴇᴡ ʟᴀɴɢᴜᴀɢᴇ ɴᴀᴍᴇ ᴀs sᴜᴋᴜɴ!"
-call_6 : "Assistant Account[{0}] Joined Successfully.\n\nStarting Music Now"
-call_7 : "**Harmful Admin Right Given **\n\nPlease remove **BAN USERS** rights from the bot."
-call_8 : "**Harmful Admin Right Given **\n\nPlease remove **ADD NEW ADMINS** rights from the bot."
-call_9 : "**Failed to switch Stream**\nPlease use /skip to change track again."
-call_10 : "Downloading Next Track from Playlist"
-call_11 : "Please add @{0} to your channel[ ID: {1}].\n\nBot is not able to get channel details."
+call_6 : "ᴍᴇʟᴇ ɪᴅ ᴀᴀ ɢʏᴀ[{0}] ɪs ɢᴜʟᴜᴘ ᴍᴇ.\n\nᴠᴄ ᴀᴀ ʟᴀʜᴀ ʜᴜ sᴏɴɢ sᴜɴɴᴀɴᴇ"
+call_7 : "**ʜᴀʀᴍғᴜʟ ᴀᴅᴍɪɴ ʀɪɢʜᴛs ɢɪᴠᴇɴ **\n\nᴏᴏʏᴇ sᴜɴᴏᴏ ʏᴀᴀʟ **BAN USERS** ᴋᴀ ʀɪɢʜᴛs ʜᴀᴛᴀ ʟᴏ ᴍᴇʟᴇ ᴄʜᴇ."
+call_8 : "**ʜᴀʀᴍғᴜʟ ᴀᴅᴍɪɴ ʀɪɢʜᴛs ɢɪᴠᴇɴ **\n\nᴏᴏʏᴇ sᴜɴᴏ ʏᴀᴀʟ **ADD NEW ADMINS** ᴋᴀ ʀɪɢʜᴛs ʜᴀᴛᴀ ʟᴏ ᴍᴇʟᴇ ᴄʜᴇ."
+call_9 : "**ғᴀɪʟᴇᴅ ʏᴏ sᴡɪᴛᴄʜ sᴛʀᴇᴀᴍ**\nʏᴇʜ ᴄᴏᴍᴍᴀɴᴅ /skip ᴅᴀʟʟᴏ ᴘʜɪʀ ᴛʀᴀᴄᴋ ᴘʟᴀʏ ᴋᴀʟʟᴏ."
+call_10 : "ᴅᴏᴡɴʟᴏᴀᴅ ᴋᴀʟ ʟᴀʜᴀ ʜᴜ ᴀɢʟᴇ ᴛʀᴀᴄᴋ ᴋᴏ ᴘʟᴀʏʟɪsᴛ ᴄʜᴇ."
+call_11 : "ʏᴀᴀʟ ɪsᴋᴏ ᴀᴅᴅ ᴋᴀʟʟᴏ @{0} ᴀᴘɴᴇ ᴅɪʏᴇ ʜᴜᴇ ᴄʜᴀɴɴᴇʟ[ ID: {1}].\n\nᴍᴇʟᴇ ᴋᴏ ᴄʜᴀɴɴᴇʟ ᴋᴀ ᴋᴏɪ ᴅᴇᴛᴀɪʟs ɴᴏɪ ᴍɪʟ ᴘᴀᴀ ʟᴀʜᴀ ʜ.."
 
 # PLUGINS - Auth.py
 auth_1 : "You can only have 20 Users in your group's Authorised Users List (AUL)"
