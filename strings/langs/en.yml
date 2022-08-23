@@ -198,9 +198,9 @@ tracks_2 : "**Error**\n\nThere's no **{0} Top 10 Playlist** on bot's servers. Pl
 # TOOLS
 
 #Lyrics
-lyrics_1 : "**Usage:**\n\n/lyrics [ Music Name]"
-lyrics_2 : "Searching Lyrics"
-lyrics_3 : "❌ Failed to fetch lyrics😭.\n\n💡**Tried Searching For:** {0}"
+lyrics_1 : "**ᴜsᴀɢᴇ:**\n\n/lyrics [ Music Name]"
+lyrics_2 : "ʟʏʀɪᴄs ᴅʜᴜɴᴅ ʟᴀʜᴀ ʜᴜᴜ"
+lyrics_3 : "❌ ʟʏʀɪᴄs ɴᴏɪ ᴅʜᴜɴᴅ ᴘᴀᴀʏᴀ😭.\n\n💡**ᴛʀɪᴇᴅ sᴇʀᴄʜɪɴɢ ʟʏʀɪᴄs:** {0}"
 lyrics_4 : "Click on the button below and get searched lyrics to avoid long spam types lyrics search."
 
 #Ping
