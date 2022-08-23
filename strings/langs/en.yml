@@ -101,14 +101,14 @@ setting_15 : "Failed to resolve peer, Make sure you have added bot in your chann
 setting_16 : "⁉️ What is This?\n\nWhen activated, Bot will suggest your chat in every 1-2 hour about bot commands (How to use them, which are the commands and many other things) randomly."
 
 
-set_cb_1 : "Getting Audio Quality Panel..."
-set_cb_2 : "Getting Video Quality Panel..."
-set_cb_3 : "Getting Auth Users Panel..."
-set_cb_4 : "Getting Play Mode Panel..."
-set_cb_5 : "Getting Clean Mode Panel..."
-set_cb_6 : "Setting up changes."
-set_cb_7 : "Getting Auth Users List.. PLEASE WAIT."
-set_cb_8 : "Getting back.."
+set_cb_1 : "ᴀᴜᴅɪᴏ ǫᴜᴀʟɪᴛʏ ᴋᴀ ᴘᴀɴᴇʟ ᴋʜᴏʟ ʟᴀʜᴀ ʜᴜᴜ..."
+set_cb_2 : "ᴠɪᴅᴇᴏ ǫᴜᴀʟɪᴛʏ ᴋᴀ ᴘᴀɴᴇʟ ᴋʜᴏʟ ʟᴀʜᴀ ʜᴜᴜ..."
+set_cb_3 : "ᴀᴜᴛʜ ᴜsᴇʀs ᴋᴀ ᴘᴀɴᴇʟ ᴋʜᴏʟ ʟᴀʜᴀ ʜᴜᴜ..."
+set_cb_4 : "ᴘʟᴀʏ ᴍᴏᴅᴇ ᴋᴀ ᴘᴀɴᴇʟ ᴋʜᴏʟ ʟᴀʜᴀ ʜᴜᴜ..."
+set_cb_5 : "ᴄʟᴇᴀɴ ᴍᴏᴅᴇ ᴋᴀ ᴘᴀɴᴇʟ ᴋʜᴏʟ ʟᴀʜᴀ ʜᴜᴜ..."
+set_cb_6 : "sᴇᴛᴛɪɴɢ ᴜᴘ ᴄʜᴀɴɢᴇs."
+set_cb_7 : "ᴀᴜᴛʜ ᴜsᴇʀs ᴋᴀ ʟɪsᴛ ᴅᴇ ʟᴀʜᴀ ʜᴜᴜ.. ᴛʜᴏʟᴀ sᴀ ᴡᴀɪᴛ ᴋᴀʟʟᴏ."
+set_cb_8 : "ɢᴇᴛᴛɪɴɢ ʙᴀᴄᴋ.."
 
 # Misc
 ustats_1 : "No User Stats Found."
