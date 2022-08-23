@@ -26,14 +26,14 @@ call_10 : "ᴅᴏᴡɴʟᴏᴀᴅ ᴋᴀʟ ʟᴀʜᴀ ʜᴜ ᴀɢʟᴇ ᴛʀᴀ�
 call_11 : "ʏᴀᴀʟ ɪsᴋᴏ ᴀᴅᴅ ᴋᴀʟʟᴏ @{0} ᴀᴘɴᴇ ᴅɪʏᴇ ʜᴜᴇ ᴄʜᴀɴɴᴇʟ[ ID: {1}].\n\nᴍᴇʟᴇ ᴋᴏ ᴄʜᴀɴɴᴇʟ ᴋᴀ ᴋᴏɪ ᴅᴇᴛᴀɪʟs ɴᴏɪ ᴍɪʟ ᴘᴀᴀ ʟᴀʜᴀ ʜ.."
 
 # PLUGINS - Auth.py
-auth_1 : "You can only have 20 Users in your group's Authorised Users List (AUL)"
-auth_2 : "Added to Authorised Users List of your group."
-auth_3 : "Already in the Authorised Users List."
-auth_4 : "Removed from Authorised Users List of this Group."
-auth_5 : "Targeted user is not an Authorised User."
-auth_6 : "Fetching Authorised Users... Please Wait"
-auth_7 : "**Authorised Users List[AUL]:**\n\n"
-auth_8 : "┗ Added By:-"
+auth_1 : "ᴜʜ sɪʀғ 20 ᴅᴏsᴛ ᴋᴏ ʜɪ ɢᴜʟᴜᴘ ᴍᴇ ᴀᴜᴛʜᴏʀɪsᴇᴅ ᴜsᴇʀs ʟɪsᴛ (AUL) ᴍᴇ ʀᴀᴋʜ sᴀᴋᴛᴇ ʜᴏ ʏᴀᴀʟ."
+auth_2 : "ᴀᴅᴅ ʜᴏ ɢʏᴀ ʜ ᴀᴜᴛʜᴏʀɪsᴇᴅ ᴜsᴇʀs ʟɪsᴛ ᴍᴇ ɪs ɢᴜʟᴜᴘ ᴋᴇ."
+auth_3 : "ᴀᴜᴛʜᴏʀɪsᴇᴅ ᴜsᴇʀs ʟɪsᴛ ᴍᴇ ᴘʜᴇʟᴇ ᴄʜᴇ ʜ ʏᴀᴀʟ."
+auth_4 : "ʀᴇᴍᴏᴠᴇ ʜᴏ ɢʏᴀ ʜ ᴀᴜᴛʜᴏʀɪsᴇᴅ ᴜsᴇʀs ʟɪsᴛ ᴍᴇ ɪs ɢᴜʟᴜᴘ ᴋᴇ."
+auth_5 : "ʏᴇʜ ᴜsᴇʀ ɴᴏɪ ʜ ᴀᴜᴛʜᴏʀɪsᴇᴅ ᴜsᴇʀs ᴍᴇ"
+auth_6 : "ғᴇᴛᴄʜɪɴɢ ᴀᴜᴛʜᴏʀɪsᴇᴅ ᴜsᴇʀs... ᴛʜᴏʟᴀ ɪɴᴛᴢᴀᴀʟ ᴋᴀʟʟᴏ"
+auth_7 : "**ᴀᴜᴛʜᴏʀɪsᴇᴅ ᴜsᴇʀs ʟɪsᴛ[AUL]:**\n\n"
+auth_8 : "┗ ᴀᴅᴅᴇᴅ ʙʏ:-"
 
 # PLUGINS - Admins
 admin_1 : "Music is already Paused."
