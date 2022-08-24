@@ -87,10 +87,10 @@ help_1 : "ɴɪᴄʜᴇ ʙᴜᴛᴛᴏɴ ᴅɪʏᴇ ʜ ᴀʟᴀɢ ᴀʟᴀɢ ᴄ�
 help_2 : "ʜᴇʟᴘ ᴋᴇ ʟɪʏᴇ ᴅᴍᴍ ᴀᴀɴᴀ ᴘᴀʟᴇɢᴀ ʏᴀᴀʟ."
 
 # Settings
-setting_1 : "⚙️ **Music Bot Settings**\n\n🖇**Group:** {0}\n🔖**Group ID:** `{1}`\n\n💡**Choose the function buttons from below which you want to edit or change.**"
-setting_3 : "⁉️ What is This?\n\n1) Direct: Plays search queries directly. Use -v to play videos in direct mode.\n\n2) Inline: Returns Inline Markup Buttons for choosing between video & audio."
-setting_4 : "⁉️ What is This?\n\n👥 Everyone: Anyone can use admin commands(skip, pause, resume etc) present in this group.\n\n🙍 Admin Only: Only admins and authorized users can use admin commands."
-setting_5 : "No Authorized Users Found\n\nYou can allow any non-admin to use my admin commands by /auth and delete by using /unauth"
+setting_1 : "⚙️ **ᴍᴜsɪᴄ ʙᴏᴛ sᴇᴛᴛɪɴɢs**\n\n🖇**ɢʀᴏᴜᴘ:** {0}\n🔖**ɢʀᴏᴜᴘ ɪᴅ:** `{1}`\n\n💡**ᴄʜᴏᴏsᴇ ᴛʜᴇ ғᴜɴᴄᴛɪᴏɴ ʙᴜᴛᴛᴏɴs ғʀᴏᴍ ʙᴇʟᴏᴡ ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴇᴅɪᴛ ᴏʀ ᴄʜᴀɴɢᴇ.**"
+setting_3 : "⁉️ ᴋʏᴀ ʜ ʏᴇʜ?\n\n1) ᴅɪʀᴇᴄᴛ: ǫᴜᴇᴜɪᴇs ᴋᴏ ᴅɪʀᴇᴄᴛ ᴘʟᴀʏ ᴋᴀʟʟɴᴇ ᴋᴇ ʟɪʏᴇ.ɪsᴋᴏ ʟᴀʜᴀ ᴋᴇ  -v ᴠɪᴅᴇᴏ ᴄʜᴀʟᴇɢᴀ ʏᴀᴀʟ ᴅɪʀᴇᴄᴛ ᴍᴏᴅᴇ ᴍᴇ.\n\n2) ɪɴʟɪɴᴇ: ᴘʜᴇʟᴇ ʟᴇ ᴀᴀᴜɴɢᴀ ᴛᴀᴋɪ ᴘʜɪʀ ᴄʜᴏsᴇ ᴋᴀʀ sᴀᴋᴏ ᴋɪ ᴀᴜᴅɪᴏ ᴍᴇ ᴘʟᴀʏ ᴋᴀʟʟɴᴀ ʜ ʏᴀ ᴠɪᴅᴇᴏ."
+setting_4 : "⁉️ ᴋʏᴀ ʜ ʏᴇʜ?\n\n👥 ᴇᴠᴇʀʏᴏɴᴇ: ᴋᴏɪ ʙʜɪ ᴍᴇᴍʙᴇʀ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs ᴜsᴇ ᴋᴀʟ sᴀᴋᴛᴀ ʜ(skip, pause, resume etc) ᴜs ɢᴜʟᴜᴘ ᴍᴇ sɪʀғ.\n\n🙍 ᴀᴅᴍɪɴ ᴏɴʟʏ: ᴜs ɢᴜʟᴜᴘ ᴋᴇ sɪʀғ ᴀᴅᴍɪɴ ᴀᴜʟ ᴀᴜᴛʜᴏʀɪsᴇᴅ ᴜsᴇs ʜɪ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs ᴜsᴇ ᴋᴀʟ ᴘᴀʏᴇɴɢᴇ."
+setting_5 : "ᴋᴏɪ ᴀᴜᴛʜᴏʀɪsᴇᴅ ᴜsᴇʀs ɴᴏɪ ʜ.\n\n ᴀᴀᴘ ᴜɴᴋᴏ ɪs ᴄᴏᴍᴍᴀɴᴅ /auth sᴇ sɪʀғ ᴜs ɢʀᴘ ᴍᴇ ɪs ʙᴏᴛ ᴋᴇ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs ᴜsᴇ ᴋᴀʀɴᴇ ᴋᴀ ʀɪɢʜᴛs ᴅᴇ sᴀᴋᴛᴇ ʜᴏ ᴀᴜʟ ɪs ᴄᴏᴍᴍᴀɴᴅs sᴇ /unauth ʀɪɢʜᴛs ᴡᴀᴘᴀs ʟᴇ sᴀᴋᴛᴇ ʜᴏ"
 setting_9 : "⁉️ What is This?\n\nWhen activated, Bot will delete its message after {0} to make your chat clean and clear."
 setting_10 : "⁉️ What is This?\n\n1) Group: Plays music in the group where the command is given .\n\n2) Channel: Plays music in the channel you want. Set channel id via /channelplay"
 setting_11 : "⁉️ What is This?\n\n1) Everyone: Anyone present in this group can play music here.\n\n2) Admin Only: Only admins can play the music in this group."
