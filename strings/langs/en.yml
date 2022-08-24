@@ -192,8 +192,8 @@ str_2 : "✅ Valid Stream Verified\n\nPlease wait processing link.."
 str_3 : "Unable to stream youtube live streams. No Live Format Found"
 
 #TopPlay
-tracks_1 : "**Processing {0} Top 10 Playlist**\nThis could take some mins(around 3-4 mins).. Please Wait...\n\n**👤Requested By:** {1}\n\nCheck Top 10 tracks by /gstats"
-tracks_2 : "**Error**\n\nThere's no **{0} Top 10 Playlist** on bot's servers. Please try any other playlist"
+tracks_1 : "**ᴘʀᴏᴄᴄᴇssɪɴɢ {0} ᴛᴏᴘ 10 ᴘʟᴀʏʟɪsᴛ**\nᴛʜɪs ᴄᴏᴜʟᴅ ᴛᴀᴋᴇ sᴏᴍᴇ ᴍɪɴs (around 3-4 mins).. ᴡᴀɪᴛ ᴋᴀʟʟᴏ...\n\n**👤ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {1}\n\nᴄʜᴇᴄᴋ ᴛᴏᴘ 10 ᴛʀᴀᴄᴋs ʙʏ /gstats"
+tracks_2 : "**ᴇʀʀᴏʀ**\n\nᴛʜᴇʀᴇ's ɴᴏ **{0} ᴛᴏᴘ 10 ᴘʟᴀʏʟɪsᴛ** ᴏɴ ʙᴏᴛ's sᴇʀᴠᴇʀ. ᴋᴏɪ ᴀᴜʟ ᴘʟᴀʏʟɪsᴛ ᴛʀʏ ᴋᴀʟʟᴏ"
 
 # TOOLS
 
