@@ -187,9 +187,9 @@ playmode_1 : "Select the mode in which you want to play the queries inside your 
 playmode_2 : "Settings changed and saved successfully by {0}"
 
 #Stream 
-str_1 : "Please Provide M3u8 Links or Index Links."
-str_2 : "✅ Valid Stream Verified\n\nPlease wait processing link.."
-str_3 : "Unable to stream youtube live streams. No Live Format Found"
+str_1 : "ᴘʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴍ3ᴜ8 ʟɪɴᴋs ᴏʀ ɪɴᴅᴇx ʟɪɴᴋs."
+str_2 : "✅ sᴛʀᴇᴀᴍ ᴠᴀʟɪᴅ ʜ ᴄʜᴀʟᴏ sᴀʜɪ ʜ\n\nʟᴜᴋᴜ ʙᴀᴊᴀ ʟᴀʜᴀ ʜᴜᴜ.."
+str_3 : "ᴜɴᴀʙʟᴇ ᴛᴏ sᴛʀᴇᴀᴍ ʏᴏᴜᴛᴜʙᴇ ʟɪᴠᴇ sᴛʀᴇᴀᴍs. ɴᴏ ʟɪᴠᴇ ғᴏʀᴍᴀᴛ ғᴏᴜɴᴅ"
 
 #TopPlay
 tracks_1 : "**ᴘʀᴏᴄᴄᴇssɪɴɢ {0} ᴛᴏᴘ 10 ᴘʟᴀʏʟɪsᴛ**\nᴛʜɪs ᴄᴏᴜʟᴅ ᴛᴀᴋᴇ sᴏᴍᴇ ᴍɪɴs (around 3-4 mins).. ᴡᴀɪᴛ ᴋᴀʟʟᴏ...\n\n**👤ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {1}\n\nᴄʜᴇᴄᴋ ᴛᴏᴘ 10 ᴛʀᴀᴄᴋs ʙʏ /gstats"
