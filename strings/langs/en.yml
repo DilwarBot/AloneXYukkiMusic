@@ -144,7 +144,7 @@ cplay_6 : "You need to be the **Owner** of the channel[{0}] to connect it with t
 #Play
 play_1 : "🔄 ᴘʀᴏᴄᴄᴇss ᴋᴀʟ ʟᴀʜᴀ ʜᴏ ʟᴜᴋᴏᴏ!"
 play_2 : "**🏷ᴄʜᴀɴɴᴇʟ ᴘʟᴀʏ ᴍᴏᴅᴇ**\n\n🔄 ᴘʀᴏᴄᴄᴇssɪɴɢ ᴋᴀʟ ʟᴀʜᴀ ʜᴜ ..... ʟᴜᴋᴏ!\n**Linked Channel:** {0}"
-play_3 : "Failed to Process Query!"
+play_3 : "ʏᴇʜ ǫᴜᴇᴜʏ ғᴀɪʟᴇᴅ ʜᴏ ɢʏᴀ ʏᴀᴀʟ.!"
 play_4 : "🖇 **Admins Only Play**\nOnly Admins and Auth Users can play music in this group.\n\nChange mode via /playmode and if you're already admin, reload admincache via /admincache"
 play_5 : "Failed to process audio file.\n\nAudio File Size Should Be Less Than 100 mb"
 play_6 : "**Duration Limit Exceeded**\n\n**Allowed Duration: **{0} minute(s)\n**Received Duration:** {1} hour(s)"
