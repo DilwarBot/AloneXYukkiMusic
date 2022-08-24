@@ -428,17 +428,17 @@ pbot_13 : "\n**<b>ᴜɴғᴇᴛᴄʜᴇᴅ ᴄʜᴀᴛs:</b>**\n\n"
 
 
 #Gbanned
-gban_1 : "You want to gban yourself? How Fool!"
-gban_2 : "Should i block myself? Lol"
-gban_3 : "You want to block a sudo user?"
-gban_4 : "{0} is already **gbanned** from the bot."
-gban_5 : "**Initializing Global Ban on {0}**\n\nExpected Time : {1}."
-gban_6 : "**Gbanned Successfully**\n\nBanned **{0}** from **{1}** chats."
-gban_7 : "{0} is not **gbanned **yet from the bot."
-gban_8 : "**Ungbanning {0}**\n\nExpected Time : {1}."
-gban_9 : "**UnGbanned Successfully**\n\nUnbanned **{0}** in **{1}** chats."
-gban_10 : "No Gbanned Users Found."
-gban_11 : "Please wait a while.. Fetching Gbanned users list"
+gban_1 : "ɢʙᴀɴ ᴋᴀʟ ʟᴀʜᴇ ʜᴏ ᴋʜᴜᴅ ᴋᴏ ɢᴀᴅʜᴇ ʜᴏ ᴛʏᴀ."
+gban_2 : "ᴍᴀɪɴ ᴋʜᴜᴅ ᴋᴏ ʙʟᴏᴄᴋ ᴋᴀʟʟᴜ ᴋʏᴀ ɢᴀᴅʜᴇ."
+gban_3 : "sᴜᴅᴏ ᴜsᴇʀ ᴋᴏ ʙʟᴏᴄᴋ ᴋᴀʟɴᴀ ᴄʜᴀʜᴛᴇ ʜᴏ"
+gban_4 : "{0}  ᴘʜᴇʟᴇ ᴄʜᴇ ʜɪ **ɢʙᴀɴɴᴇᴅ** ʜ ʏᴀᴀʟ."
+gban_5 : "**ɪɴɪᴛᴀɪʟɪᴢɪɴɢ ɢʟᴏʙᴀʟ ʙᴀɴ ᴏɴ {0}**\n\nᴇxᴘᴇᴄᴛɪᴏɴ ᴛɪᴍᴇ : {1}."
+gban_6 : "**ɢʙᴀɴɴᴇᴅ sᴜᴄᴄᴇᴇssғᴜʟʟʏ**\n\nʙᴀɴɴᴇᴅ **{0}** ғʀᴏᴍ **{1}** ᴄʜᴀᴛs."
+gban_7 : "{0}  **ɢʙᴀɴɴᴇᴅ** ɴᴏɪ ʜ ʙᴏᴛ ᴄʜᴇ."
+gban_8 : "**ᴜɴɢʙᴀɴ ᴋᴀʟ ʟᴀʜᴀ ʜᴜᴜ.. {0}**\n\nᴇxᴘᴇᴄᴛᴇᴅ ᴛɪᴍᴇ: {1}."
+gban_9 : "**ᴜɴɢʙᴀɴɴᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ**\n\nᴜɴʙᴀɴɴᴇᴅ **{0}** ɪɴ **{1}** ᴄʜᴀᴛs."
+gban_10 : "ᴋᴏɪ ɢʙᴀɴɴᴇᴅ ᴜsᴇʀs ɴᴏɪ ᴍɪʟᴀ."
+gban_11 : "ʟᴜᴋᴏ ᴛʜᴏʀᴀ....ɢʙᴀɴɴᴇᴅ ᴜsᴇʀs ᴋᴀ ʟɪsᴛ ᴅᴇ ʟᴀʜᴀ ʜᴜᴜ."
 
 #Suggestions
 sug_0 : "❓**Do You Know?**\n\n✅ "
