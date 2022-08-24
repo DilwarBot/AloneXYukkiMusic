@@ -83,8 +83,8 @@ start_6 : "❗️ **Supergroup Needed** ❗️\n\nPlease convert your **group** 
 start_7 : "**Blacklisted Chat**\n\nYou're chat has been blacklisted by the Bot. Please ask any SudoUser to whitelist chat first. Check [Sudolist from here]({0})"
 
 # Help
-help_1 : "Click on the buttons below for more information. If you're facing any problem in command you can contact my bot owner or ask in support chat.\n\nAll commands can be used with: /"
-help_2 : "Contact me in PM for help."
+help_1 : "ɴɪᴄʜᴇ ʙᴜᴛᴛᴏɴ ᴅɪʏᴇ ʜ ᴀʟᴀɢ ᴀʟᴀɢ ᴄᴏᴍᴍᴀɴᴅs ᴋᴇ ᴅᴇᴋʜ ʟᴏ ʏᴀᴀʟ.ᴀᴜʟ ᴋᴏɪ ᴘʀᴏʙʟᴇᴍ ʜᴏ ᴛᴏʜ ᴍᴇʟᴇ ʀᴏᴍᴀɴᴛɪᴄ ᴏᴡɴᴇʀ ᴄʜᴇ ʙᴀᴀᴛ ᴋᴀʟʟᴏ ʏᴀ sᴜᴘᴘᴏʀᴛs ɢʀᴘ ᴍᴇ ᴀᴀᴋᴇ ᴘᴜᴄʜ ʟᴏ ʏᴀᴀʟ.\n\nsᴀᴀʀᴇ ᴄᴏᴍᴍᴀɴᴅs ɪss sᴛᴀʀᴛ ʜ: /"
+help_2 : "ʜᴇʟᴘ ᴋᴇ ʟɪʏᴇ ᴅᴍᴍ ᴀᴀɴᴀ ᴘᴀʟᴇɢᴀ ʏᴀᴀʟ."
 
 # Settings
 setting_1 : "⚙️ **Music Bot Settings**\n\n🖇**Group:** {0}\n🔖**Group ID:** `{1}`\n\n💡**Choose the function buttons from below which you want to edit or change.**"
@@ -111,8 +111,8 @@ set_cb_7 : "ᴀᴜᴛʜ ᴜsᴇʀs ᴋᴀ ʟɪsᴛ ᴅᴇ ʟᴀʜᴀ ʜᴜᴜ.. 
 set_cb_8 : "ɢᴇᴛᴛɪɴɢ ʙᴀᴄᴋ.."
 
 # Misc
-ustats_1 : "No User Stats Found."
-ustats_2 : "Greetings!, You have played **{0}** tracks till now with a whopping count of **{1}** times.\n\nTop {2} played by you:\n\n"
+ustats_1 : "ᴋᴏɪ ᴜsᴇʀs ᴋᴀ sᴛᴀᴛs ɴᴏɪ ᴍɪʟᴀ ʏᴀᴀʟ."
+ustats_2 : "ᴡᴡᴡᴏᴏᴏᴏᴡᴡ ʏᴀᴀʟ!, ʏᴏᴜ ʜᴀᴠᴇ ᴘʟᴀʏᴇᴅ **{0}** ᴛʀᴀᴄᴋs ᴛɪʟʟ ɴᴏᴡ ᴡɪᴛʜ ᴀ ᴡʜᴏᴘᴘɪɴɢ ᴄᴏᴜɴᴛ ᴏғ **{1}** ᴛɪᴍᴇs.\n\nᴛᴏᴘ {2} ᴘʟᴀʏᴇᴅ ʙʏ ʏᴏᴜ:\n\n"
 
 gstats_1 : "Getting Global Stats, This could take some time..."
 gstats_2 : "No Stats Found."
@@ -130,8 +130,8 @@ gstats_11 : "**General Stats of {0}**\nSelect the buttons from below for which y
 # Play 
 
 #Play Callback 
-playcb_1 : "This is not for you! Search You Own Song."
-playcb_2 : "Getting Next Result"
+playcb_1 : "ʏᴇʜ ʙᴀʟᴀ ᴜʜ ᴋᴇ ʟɪʏᴇ ɴᴏɪ ʜ! ᴋʜᴜᴅ ᴋᴀ sᴏɴɢ ᴘʟᴀʏ ᴋᴀʟᴋᴇ ᴋᴀʟʟᴏ."
+playcb_2 : "ɴᴇxᴛ ʀᴇsᴜʟᴛ ᴀᴀ ʟᴀʜᴀ ʜ"
 
 # Channel Play
 cplay_1 : "You can play music in channels from this chat[{0}] to any channel or your chat's linked channel.\n\n**For linked channel:**\n`/{1} linked`\n\n**For any other channel:**\n`/{1} [Channel ID]`"
