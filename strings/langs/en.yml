@@ -134,12 +134,12 @@ playcb_1 : "ʏᴇʜ ʙᴀʟᴀ ᴜʜ ᴋᴇ ʟɪʏᴇ ɴᴏɪ ʜ! ᴋʜᴜᴅ �
 playcb_2 : "ɴᴇxᴛ ʀᴇsᴜʟᴛ ᴀᴀ ʟᴀʜᴀ ʜ"
 
 # Channel Play
-cplay_1 : "You can play music in channels from this chat[{0}] to any channel or your chat's linked channel.\n\n**For linked channel:**\n`/{1} linked`\n\n**For any other channel:**\n`/{1} [Channel ID]`"
-cplay_2 : "This chat has no linked channel."
-cplay_3 : "Channel Defined to {0}\n\n__Channel ID__: {1}"
-cplay_4 : "Failed to get channel.\n\nMake sure you have added bot in your channel and promoted it as admin.\nEdit or Change channel via /channelplay"
-cplay_5 : "Only Channels are supported."
-cplay_6 : "You need to be the **Owner** of the channel[{0}] to connect it with this group.\n**Channel's Owner:** @{1}\n\nAlternatively you can link your group to that channel and then try connnecting with `/channelplay linked`"
+cplay_1 : "ᴜʜ ᴍᴜsɪᴄ ᴘʟᴀʏ ᴋᴀʀ sᴀᴋᴛᴇ ʜ[{0}] ᴄʜᴇ ᴋɪsɪ ᴄʜᴀɴɴᴇʟ ᴘᴇ ʏᴀ ʟɪɴᴋᴇᴅ ᴄʜᴀɴɴᴇʟ ᴘᴇ.\n\n**ғᴏʀ ʟɪɴᴋᴇᴅ ᴄʜᴀɴɴᴇʟ:**\n`/{1} linked`\n\n**ғᴏʀ ᴀɴʏ ᴏᴛʜᴇʀ ᴄʜᴀɴɴᴇʟ:**\n`/{1} [Channel ID]`"
+cplay_2 : "ɪs ᴄʜᴀᴛs ᴄʜᴇ ᴋᴏɪ ʟɪɴᴋᴇᴅ ᴄʜᴀɴɴᴇʟ sᴇ ᴄᴏɴɴᴇᴄᴛ ɴᴏɪ ʜ."
+cplay_3 : "ᴄʜᴀɴɴᴇʟ ᴄᴏɴɴᴇᴄᴛ ʜᴏ ɢʏᴀ ᴛᴏ {0}\n\n__ᴄʜᴀɴɴᴇʟ ɪᴅ__: {1}"
+cplay_4 : "ᴄʜᴀɴɴᴇʟ ɴᴏɪ ᴍɪʟᴀ.\n\nᴄʜᴇᴄᴋ ᴋᴀʟʟᴏ ᴋɪ ᴍᴇʟᴇ ᴋᴏ ᴀᴅᴍɪɴ ʙᴀɴᴀʏᴀ ʜ ᴋɪ ɴᴏɪ ᴄʜᴀɴɴᴇʟ ᴍᴇ ʏᴀᴀʟ.\nᴇᴅɪᴛ ᴏʀ ᴄʜᴀɴɢᴇ ᴄʜᴀɴɴᴇʟ ᴠɪᴀ /channelplay"
+cplay_5 : "sɪʀғ ᴄʜᴀɴɴᴇʟ ʜɪ sᴜᴘᴘᴏʀᴛᴇᴅ ʜ."
+cplay_6 : "ᴜʜ **ᴏᴡɴᴇʀ** ʜᴏɢᴇ ᴄʜᴀɴɴᴇʟ[{0}] ᴋᴇ ᴛᴀʙʜɪ ᴄᴏɴɴᴇᴄᴛ ᴋᴀʀ ᴘᴏᴏɢᴇ ɢʀᴘ ᴄʜᴇ.\n**ᴄʜᴀɴɴᴇʟ ᴋᴀ ᴏᴡɴᴇʀ:** @{1}\n\nᴜʜ ᴄᴏɴɴᴇᴄᴛ ᴋᴀʀ sᴀᴋᴛᴇ ʜᴏ ɢᴜʟᴜᴘ ᴋᴏ ᴄʜᴀɴɴᴇʟ ᴄʜᴇ `/channelplay linked`"
 
 #Play
 play_1 : "🔄 ᴘʀᴏᴄᴄᴇss ᴋᴀʟ ʟᴀʜᴀ ʜᴏ ʟᴜᴋᴏᴏ!"
