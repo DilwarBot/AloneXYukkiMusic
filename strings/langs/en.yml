@@ -91,7 +91,7 @@ setting_1 : "⚙️ **ᴍᴜsɪᴄ ʙᴏᴛ sᴇᴛᴛɪɴɢs**\n\n🖇**ɢʀᴏ
 setting_3 : "⁉️ ᴋʏᴀ ʜ ʏᴇʜ?\n\n1) ᴅɪʀᴇᴄᴛ: ǫᴜᴇᴜɪᴇs ᴋᴏ ᴅɪʀᴇᴄᴛ ᴘʟᴀʏ ᴋᴀʟʟɴᴇ ᴋᴇ ʟɪʏᴇ.ɪsᴋᴏ ʟᴀʜᴀ ᴋᴇ  -v ᴠɪᴅᴇᴏ ᴄʜᴀʟᴇɢᴀ ʏᴀᴀʟ ᴅɪʀᴇᴄᴛ ᴍᴏᴅᴇ ᴍᴇ.\n\n2) ɪɴʟɪɴᴇ: ᴘʜᴇʟᴇ ʟᴇ ᴀᴀᴜɴɢᴀ ᴛᴀᴋɪ ᴘʜɪʀ ᴄʜᴏsᴇ ᴋᴀʀ sᴀᴋᴏ ᴋɪ ᴀᴜᴅɪᴏ ᴍᴇ ᴘʟᴀʏ ᴋᴀʟʟɴᴀ ʜ ʏᴀ ᴠɪᴅᴇᴏ."
 setting_4 : "⁉️ ᴋʏᴀ ʜ ʏᴇʜ?\n\n👥 ᴇᴠᴇʀʏᴏɴᴇ: ᴋᴏɪ ʙʜɪ ᴍᴇᴍʙᴇʀ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs ᴜsᴇ ᴋᴀʟ sᴀᴋᴛᴀ ʜ(skip, pause, resume etc) ᴜs ɢᴜʟᴜᴘ ᴍᴇ sɪʀғ.\n\n🙍 ᴀᴅᴍɪɴ ᴏɴʟʏ: ᴜs ɢᴜʟᴜᴘ ᴋᴇ sɪʀғ ᴀᴅᴍɪɴ ᴀᴜʟ ᴀᴜᴛʜᴏʀɪsᴇᴅ ᴜsᴇs ʜɪ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs ᴜsᴇ ᴋᴀʟ ᴘᴀʏᴇɴɢᴇ."
 setting_5 : "ᴋᴏɪ ᴀᴜᴛʜᴏʀɪsᴇᴅ ᴜsᴇʀs ɴᴏɪ ʜ.\n\n ᴀᴀᴘ ᴜɴᴋᴏ ɪs ᴄᴏᴍᴍᴀɴᴅ /auth sᴇ sɪʀғ ᴜs ɢʀᴘ ᴍᴇ ɪs ʙᴏᴛ ᴋᴇ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs ᴜsᴇ ᴋᴀʀɴᴇ ᴋᴀ ʀɪɢʜᴛs ᴅᴇ sᴀᴋᴛᴇ ʜᴏ ᴀᴜʟ ɪs ᴄᴏᴍᴍᴀɴᴅs sᴇ /unauth ʀɪɢʜᴛs ᴡᴀᴘᴀs ʟᴇ sᴀᴋᴛᴇ ʜᴏ"
-setting_9 : "⁉️ What is This?\n\nWhen activated, Bot will delete its message after {0} to make your chat clean and clear."
+setting_9 : "⁉️ ᴋʏᴀ ʜ ʏᴇʜ?\n\nᴊᴀʙ ʏᴇʜ ᴀᴄᴛɪᴠᴀᴛᴇ ʜᴏ ᴊᴀʏᴇɢᴀ , ᴛᴀʙ ᴍᴀɪɴ ᴀᴘɴᴇ ᴄʜᴇ ᴜʜ ᴊᴇ ɢʀᴘ ᴋᴇ ᴄʜᴀᴛs ᴋᴏ {0} ɪᴛɴᴇ ᴅᴇʀ ᴋᴇ ʙᴀᴀᴅ ᴅᴇʟ ᴋᴀʀ ᴅᴜɴɢᴀ ᴛᴀᴀᴋɪ ᴀᴀᴘᴋᴇ ɢᴜʟᴜᴘ ᴄʟᴇᴀɴ ʟᴀʜᴇ ᴏᴛᴇʏ ɴᴀ."
 setting_10 : "⁉️ What is This?\n\n1) Group: Plays music in the group where the command is given .\n\n2) Channel: Plays music in the channel you want. Set channel id via /channelplay"
 setting_11 : "⁉️ What is This?\n\n1) Everyone: Anyone present in this group can play music here.\n\n2) Admin Only: Only admins can play the music in this group."
 setting_12 : "❌ You've no channel id defined for channel mode. Please define with /channelplay."
