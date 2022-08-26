@@ -80,12 +80,12 @@ HELP_3 = """❤️‍🔥<u>**ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs:**</u>
 
 ✯ /queue ᴏʀ /cqueue- ᴄʜᴇᴄᴋ Qᴜᴇᴜᴇ ʟɪꜱᴛ ᴏꜰ ᴍᴜꜱɪᴄ.."""
 
-HELP_4 = """✅<u>**Extra  Commands:**</u>
+HELP_4 = """💘<u>**ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅs:**</u>
 /start - Start the Music Bot.
 /help  - Get Commands Helper Menu with detailed explanations of commands.
 /ping- Ping the Bot and check Ram, Cpu etc stats of Bot.
 
-✅<u>**Group Settings:**</u>
+😺<u>**Group Settings:**</u>
 /settings - Get a complete group's settings with inline buttons
 
 🔗 **Options in Settings:**
