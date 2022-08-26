@@ -47,7 +47,7 @@ admin_8 : "🎧 ᴠᴏɪᴄᴇᴄʜᴀᴛ ᴜɴᴍᴜᴛᴇᴅ ɪsɴᴇ ᴛɪʏ�
 admin_9 : "🎧 ᴠᴏɪᴄᴇᴄʜᴀᴛ ᴇɴᴅ/sᴛᴏᴘ ɪsɴᴇ ᴛɪʏᴀ :- {}!"
 admin_10 : "🎧 ᴠᴏɪᴄᴇᴄʜᴀᴛ sᴋɪᴘᴘᴇᴅ ɪsɴᴇ ᴛɪʏᴀ :- {}!. ǫᴜᴇᴜᴇ ᴍᴇ ᴋᴏɪ sᴏɴɢ ɴᴏɪ ʜ ʏᴀᴀʟ."
 admin_11 : "ᴋᴜᴄʜ ᴘʀᴏʙʟᴇᴍ ᴀᴀ ʟᴀʜᴀ ʜ sᴛʀᴇᴀᴍ ᴋᴏ ᴄʜᴀɴɢᴇ ᴋᴀʀɴᴇ ᴍᴇ **{0}**\n\n /skip ᴜsᴇ ᴋᴀʟʟᴏ."
-admin_12 : "Unable to skip to a specific track because of enabled loop play. Please disable loop play via `/loop disable` to use this feature."
+admin_12 : "ᴜɴᴀʙʟᴇ ᴛᴏ sᴋɪᴘ ᴛᴏ ᴀ sᴘᴇᴄɪғɪᴄ ᴛʀᴀᴄᴋ ʙᴇᴄᴀᴜsᴇ ᴏғ ᴇɴᴀʙʟᴇᴅ ʟᴏᴏᴘ ᴘʟᴀʏ. ᴘʟᴇᴀsᴇ ᴅɪsᴀʙʟᴇ ʟᴏᴏᴘ ᴘʟᴀʏ ᴠɪᴀ `/loop disable` to use this feature."
 admin_13 : "Please use numeric numbers for specific tracks, like 1, 2 or 4 etc"
 admin_14 : "Atleast 2 tracks needed in queue to skip to a specific number. Check queue by /queue"
 admin_15 : "Not enough tracks in queue for the value given by you. Please choose numbers between 1 and {0}"
