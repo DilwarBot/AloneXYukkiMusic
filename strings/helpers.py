@@ -70,15 +70,15 @@ HELP_3 = """❤️‍🔥<u>**ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs:**</u>
 
 ✯ /sudolist - ᴄʜᴇᴄᴋ sᴜᴅᴏ ᴜsᴇʀs ᴏғ sᴜᴋᴜɴ ʙᴏᴛ
 
-/lyrics [Music Name] - Searches Lyrics for the particular Music on web.
+✯ /lyrics ᴍᴜsɪᴄ ɴᴀᴍᴇ - sᴇᴀʀᴄʜᴇs ʟʏʀɪᴄs ғᴏʀ ᴛʜᴇ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴍᴜsɪᴄ ᴏɴ ᴡᴇʙ.
 
-/song [Track Name] or [YT Link] - Download any track from youtube in mp3 or mp4 formats.
+✯ /song ᴛʀᴀᴄᴋ ɴᴀᴍᴇ or ʏᴛ ʟɪɴᴋ - ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ ᴛʀᴀᴄᴋ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ ɪɴ ᴍᴘ3 or ᴍᴘ4 ғᴏʀᴍᴀᴛꜱ.
 
-/player -  Get a interactive Playing Panel.
+✯ /player -  ɢᴇt ᴀ ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ ᴘʟᴀʏɪɴɢ ᴘᴀɴᴇʟ.
 
-**c** stands for channel play.
+**c** ꜱᴛᴀɴᴅꜱ ꜰᴏʀ ᴄʜᴀɴɴᴇʟ ᴘʟᴀʏ.
 
-/queue or /cqueue- Check Queue List of Music."""
+✯ /queue ᴏʀ /cqueue- ᴄʜᴇᴄᴋ Qᴜᴇᴜᴇ ʟɪꜱᴛ ᴏꜰ ᴍᴜꜱɪᴄ.."""
 
 HELP_4 = """✅<u>**Extra  Commands:**</u>
 /start - Start the Music Bot.
