@@ -155,11 +155,11 @@ play_10 : "**ʏᴏᴜᴛᴜʙᴇ ᴘʟᴀʏʟɪsᴛ ғᴇᴀᴛᴜʀᴇ**\n\nᴍ
 play_11 : "😺ᴛɪᴛᴛʟᴇ: **{0}\n\n❤️ᴅᴜʀᴀᴛɪᴏɴ:** {1} Mins"
 play_12 : "**sᴘᴏᴛɪғʏ ᴘʟᴀʏ ᴍᴏᴅᴇ**\n\nʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:- {0}"
 play_13 : "**ᴀᴘᴘʟᴇ ᴘʟᴀʏʟɪsᴛ**\n\nʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:- {0}"
-play_14 : "**Unable to verify the URL.**\nBot wonders if this url belongs to any of the following platforms: Youtube, AppleMusic, Spotify, Resso and Soundcloud.\n\nYou can use /stream for M3u8 or Remote Links."
-play_15 : "**Live Stream Detected**\n\nSystems have detected your track link as live stream. Want to play live stream ?"
-play_16 : "Failed to fetch track details. Try playing any other."
-play_17 : "Unable to play this type of spotify query!\n\nI can only play spotify tracks, albums, artists and playlists"
-play_18 : "**No Active Voice Chat Found**\n\nTo use force play, there must be an active voice chat going on in your group. **Force Play** stops the playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue."
+play_14 : "**ᴜʀʟ ᴋᴏ ᴠᴇʀɪғʏ ɴᴏɪ ᴋᴀʟ ᴘᴀᴀ ʀʜᴀ ʜᴜᴜ**\nʙᴏᴛ ᴡᴏɴᴅᴇʀ ᴋᴀʟᴇɢᴀ ᴀɢᴀʀ ᴜʀʟ ɪɴsᴇ sᴇ ᴋɪsɪ ᴘʟᴀᴛғᴏʀᴍ ᴋᴀ ʜᴏɢᴀ: ʏᴏᴜᴛᴜʙᴇ, ᴀᴘᴘʟᴇᴍᴜsɪᴄ, sᴘᴏᴛɪғʏ, ʀᴇssᴏ and sᴏᴜɴᴅᴄʟᴏᴜᴅ.\n\nᴜʜ /stream ᴜsᴇ ᴋᴀʟ sᴀᴋᴛᴇ ʜᴏ M3u8 ᴀᴜʟ ʀᴇᴍᴏᴛᴇ ʟɪɴᴋs ᴋᴇ ʟɪʏᴇ."
+play_15 : "**ʟɪᴠᴇ sᴛʀᴇᴀᴍ ʜ**\n\nᴜʜ ᴊᴏ ʟɪɴᴋ ᴅɪʏᴇ ʜᴏ ᴜsᴍᴇ ʟɪᴠᴇ sᴛʀᴇᴀᴍ ᴄʜᴀʟ ʟᴀʜᴀ ʜ ʟɪᴠᴇ ᴋᴀʟɴᴀ ʜ ᴛʏᴀ ᴘʟᴀʏ ?"
+play_16 : "ᴜs ᴛʀᴀᴄᴋ ᴋᴏ ғᴇɴᴛᴄʜ ɴᴏɪ ᴋᴀʟ ᴘᴀᴀʏᴀ. ᴅᴜsʟᴀ ᴘʟᴀʏ ᴋᴀʟᴋᴇ ᴅᴇᴋʜᴏ ʏᴀᴀʟ."
+play_17 : "ᴜs ᴛʏᴘᴇ ᴋᴀ sᴘᴏᴛɪғʏ ǫᴜᴇᴜʀʏ ᴋᴏ ᴘʟᴀʏ ɴᴏɪ ᴋᴀʟ ᴘᴀᴀ ʟᴀʜᴀ ʜᴜᴜ!\n\nᴍᴀɪɴ sɪʀғ sᴘᴏᴛɪғʏ ᴛʀᴀᴄᴋs, ᴀʟʙᴜᴍs, ᴀʀᴛɪsᴛs and ᴘʟᴀʏʟɪsᴛs"
+play_18 : "**ᴠᴄ ᴏɴ ɴᴏɪ ᴍɪʟᴀ ʟᴀʜᴀ ʜ**\n\nғᴏʀᴄᴇ ᴘʟᴀʏ ᴜsᴇ ᴋᴀʟɴᴇ ᴋᴇ ʟɪʏᴇ, ᴠᴄ ᴏɴ ʜᴏɴᴀ ᴄʜᴀʜɪʏᴇ ɢᴜʟᴜᴘ ᴋᴀ. **ғᴏʀᴄᴇ ᴘʟᴀʏ** ᴊᴏ sᴇʀᴄʜᴇᴅ ᴋɪʏᴀ ʜ ᴠᴀʜɪ sɪᴅʜᴀ ᴘʟᴀʏ ᴋᴀʟᴜɴɢᴀ ʙɪɴᴀ ᴘᴀʟᴇsʜᴀᴀɴ ᴋɪʏᴇ.."
 
 
 #Playlist
