@@ -50,7 +50,7 @@ admin_11 : "ᴋᴜᴄʜ ᴘʀᴏʙʟᴇᴍ ᴀᴀ ʟᴀʜᴀ ʜ sᴛʀᴇᴀᴍ 
 admin_12 : "ᴜɴᴀʙʟᴇ ᴛᴏ sᴋɪᴘ ᴛᴏ ᴀ sᴘᴇᴄɪғɪᴄ ᴛʀᴀᴄᴋ ʙᴇᴄᴀᴜsᴇ ᴏғ ᴇɴᴀʙʟᴇᴅ ʟᴏᴏᴘ ᴘʟᴀʏ. ᴘʟᴇᴀsᴇ ᴅɪsᴀʙʟᴇ ʟᴏᴏᴘ ᴘʟᴀʏ ᴠɪᴀ `/loop disable` to use this feature."
 admin_13 : "ᴘʟᴇᴀsᴇ ᴜsᴇ ɴᴜᴍᴇʀɪᴄ ɴᴜᴍʙᴇʀs ғᴏʀ sᴘᴇᴄɪғɪᴄ ᴛʀᴀᴄᴋs, ʟɪᴋᴇ 1, 2 ᴏʀ 4 ᴇᴛᴄ"
 admin_14 : "ᴀᴛʟᴇᴀsᴛ 2 ᴛʀᴀᴄᴋs ɴᴇᴇᴅᴇᴅ ɪɴ ǫᴜᴇᴜᴇ ᴛᴏ sᴋɪᴘ ᴛᴏ ᴀ sᴘᴇᴄɪғɪᴄ ɴᴜᴍʙᴇʀ. ᴄʜᴇᴄᴋ ǫᴜᴇᴜᴇ ʙʏ /queue"
-admin_15 : "Not enough tracks in queue for the value given by you. Please choose numbers between 1 and {0}"
+admin_15 : "ɴᴏᴛ ᴇɴᴏᴜɢʜ ᴛʀᴀᴄᴋs ɪɴ ǫᴜᴇᴜᴇ ғᴏʀ ᴛʜᴇ ᴠᴀʟᴜᴇ ɢɪᴠᴇɴ ʙʏ ʏᴏᴜ. ᴘʟᴇᴀsᴇ ᴄʜᴏᴏsᴇ ɴᴜᴍʙᴇʀs ʙᴇᴛᴡᴇᴇɴ 1 ᴀɴᴅ {0}"
 admin_16 : "sᴘᴇᴄɪғɪᴄ ᴛʀᴀᴄᴋ ᴋᴏ sᴋɪᴘ ɴᴏɪ ᴋᴀʟ ᴘᴀᴀʏᴀ.\n\nᴄʜᴇᴄᴋ ᴋᴀʟʟᴏ ʟᴇғᴛ ǫᴜᴇᴜᴇ ᴋᴏ ɪssᴇ /queue"
 admin_17 : "{0}.. ᴡᴀɪᴛ ᴋᴀʟʟᴏ"
 admin_18 : "ᴀᴅᴍɪɴ ʟɪsᴛ ɴᴏɪ ᴍɪʟᴀ\n\nʀᴇʟᴏᴀᴅ ᴋᴀʟʟᴏ ᴘʜʟᴇ via /admincache or /reload"
