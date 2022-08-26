@@ -65,7 +65,7 @@ admin_26 : "ɴᴜᴍʙᴇʀ ᴍᴇ ɪᴛɴᴇ ᴋᴇ ʙᴇᴇᴄʜ ʜɪ ᴋᴀ �
 admin_27 : "ʟᴏᴏᴘ ᴘʟᴀʏ ᴅɪsᴀʙʟᴇᴅ ʜᴏ ɢʏᴀ ʏᴀᴀʟ"
 admin_28 : "**ᴜsᴀɢᴇ:**\n/seek or /seekback [Duration in seconds]"
 admin_29 : "ɴᴜᴍᴇʀɪᴄ ᴠᴀʟᴜᴇ ᴜsᴇ ᴋᴀʀᴏ ᴊᴀɪsᴇ 10-20-30 second sᴇᴇᴋɪɴɢ"
-admin_30 : "Sorry but you can't seek the currently playing stream. It can only be skipped or stopped."
+admin_30 : "sᴏʀʀʏ ʙᴜᴛ ʏᴏᴜ ᴄᴀɴ'ᴛ sᴇᴇᴋ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛʟʏ ᴘʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ. ɪᴛ ᴄᴀɴ ᴏɴʟʏ ʙᴇ sᴋɪᴘᴘᴇᴅ ᴏʀ sᴛᴏᴘᴘᴇᴅ."
 admin_31 : "Bot is not able to seek due to high duration given. You need to seek to a lower duration and remember that a time of 10 seconds is left after seeking.\n\nCurrently played** {0}** mins out of **{1}** mins"
 admin_32 : "ᴛʜᴏʟᴀ ᴡᴀɪᴛ ᴋᴀʟʟᴏ... sᴇᴇᴋɪɴɢ ᴄʜᴀʟ ʟᴀʜᴀ ʜ."
 admin_33 : "sᴇᴇᴋ ʜᴏ ɢʏᴀ ᴛᴏ {0} Mins"
