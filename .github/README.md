@@ -1,3 +1,5 @@
+<h3>⚠️ This repo is just a clone of <a href="https://github.com/TeamYukki/YukkiMusicBot">YukkiMusicBot</a>. All credits goes to devs of <a href="https://github.com/TeamYukki/YukkiMusicBot/graphs/contributors">YukkiMusicBot</a>.</h3>
+
 <img src="https://telegra.ph/file/8836f2a396de04968bbe5.png" align="right" width="200" height="200"/>
 
 # Team Sukun Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
