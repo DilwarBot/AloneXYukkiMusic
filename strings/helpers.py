@@ -86,31 +86,33 @@ HELP_4 = """💘<u>**ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅs:**</u>
 ✯ /ping- ᴘɪɴɢ ᴛʜᴇ ʙᴏᴛ ᴀɴᴅ ᴄʜᴇᴄᴋ ʀᴀᴍ, ᴄᴘᴜ ᴇᴛᴄ ꜱᴛᴀᴛꜱ ᴏғ ʙᴏᴛ.
 
 😺<u>**ɢʀᴏᴜᴘ sᴇᴛᴛɪɴɢs:**</u>
-/settings - Get a complete group's settings with inline buttons
+✯ /settings - ɢᴇᴛ a ᴄᴏᴍᴘʟᴇᴛᴇ ɢʀᴏᴜᴘ'ꜱ ꜱᴇᴛᴛɪɴɢꜱ ᴡɪᴛʜ ɪɴʟɪɴᴇ ʙᴜᴛᴛᴏɴꜱ.
 
 🔗 **Options in Settings:**
 
-1️⃣ You can set **Audio Quality** you want to stream on voice chat.
+1️⃣ ʏᴏᴜ ᴄᴀɴ sᴇᴛ ᴀᴜᴅɪᴏ ǫᴜᴀʟɪᴛʏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ sᴛʀᴇᴀᴍ ᴏɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ.
 
-2️⃣ You can set **Video Quality** you want to stream on voice chat.
+2️⃣ ʏᴏᴜ ᴄᴀɴ sᴇᴛ ᴠɪᴅᴇᴏ ǫᴜᴀʟɪᴛʏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ sᴛʀᴇᴀᴍ ᴏɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ.
 
-3️⃣ **Auth Users**:- You can change admin commands mode from here to everyone or admins only. If everyone, anyone present in you group will be able to use admin commands(like /skip, /stop etc)
+3️⃣ ᴀᴜᴛʜ ᴜsᴇʀs:- ʏᴏᴜ ᴄᴀɴ ᴄʜᴀɴɢᴇ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs ᴍᴏᴅᴇ ғʀᴏᴍ ʜᴇʀᴇ ᴛᴏ ᴇᴠᴇʀʏᴏɴᴇ ᴏʀ ᴀᴅᴍɪɴs ᴏɴʟʏ. ɪғ ᴇᴠᴇʀʏᴏɴᴇ, ᴀɴʏᴏɴᴇ ᴘʀᴇsᴇɴᴛ ɪɴ ʏᴏᴜ ɢʀᴏᴜᴘ ᴡɪʟʟ ʙᴇ ᴀʙʟᴇ ᴛᴏ ᴜsᴇ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs(ʟɪᴋᴇ /skip, /stop ᴇᴛᴄ)
 
-4️⃣ **Clean Mode:** When enabled deletes the bot's messages after 5 mins from your group to make sure your chat remains clean and good.
+4️⃣ ᴄʟᴇᴀɴ ᴍᴏᴅᴇ: ᴡʜᴇɴ ᴇɴᴀʙʟᴇᴅ ᴅᴇʟᴇᴛᴇs ᴛʜᴇ ʙᴏᴛ's ᴍᴇssᴀɢᴇs ᴀғᴛᴇʀ 5 ᴍɪɴs ғʀᴏᴍ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ᴍᴀᴋᴇ sᴜʀᴇ ʏᴏᴜʀ ᴄʜᴀᴛ ʀᴇᴍᴀɪɴs ᴄʟᴇᴀɴ ᴀɴᴅ ɢᴏᴏᴅ.
 
-5️⃣ **Command Clean** : When activated, Bot will delete its executed commands (/play, /pause, /shuffle, /stop etc) immediately.
+5️⃣ ᴄᴏᴍᴍᴀɴᴅ ᴄʟᴇᴀɴ : ᴡʜᴇɴ ᴀᴄᴛɪᴠᴀᴛᴇᴅ, ʙᴏᴛ ᴡɪʟʟ ᴅᴇʟᴇᴛᴇ ɪᴛs ᴇxᴇᴄᴜᴛᴇᴅ ᴄᴏᴍᴍᴀɴᴅs (/play, /pause, /shuffle, /stop etc) immediately.
+
+
 
 6️⃣ **Play Settings:**
 
-/playmode - Get a complete play settings panel with buttons where you can set your group's play settings. 
+✯ /playmode - ɢᴇᴛ ᴀ ᴄᴏᴍᴘʟᴇᴛᴇ ᴘʟᴀʏ sᴇᴛᴛɪɴɢs ᴘᴀɴᴇʟ ᴡɪᴛʜ ʙᴜᴛᴛᴏɴs ᴡʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ sᴇᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ's ᴘʟᴀʏ sᴇᴛᴛɪɴɢs.
 
 <u>Options in playmode:</u>
 
-1️⃣ **Search Mode** [Direct or Inline] - Changes your search mode while you give /play mode. 
+1️⃣ Search Mode Direct or Inline - ᴄʜᴀɴɢᴇs ʏᴏᴜʀ sᴇᴀʀᴄʜ ᴍᴏᴅᴇ ᴡʜɪʟᴇ ʏᴏᴜ ɢɪᴠᴇ /play ᴍᴏᴅᴇ. 
 
-2️⃣ **Admin Commands** [Everyone or Admins] - If everyone, anyone present in you group will be able to use admin commands(like /skip, /stop etc)
+2️⃣ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs ᴇᴠᴇʀʏᴏɴᴇ ᴏʀ ᴀᴅᴍɪɴs - ɪғ ᴇᴠᴇʀʏᴏɴᴇ, ᴀɴʏᴏɴᴇ ᴘʀᴇsᴇɴᴛ ɪɴ ʏᴏᴜ ɢʀᴏᴜᴘ ᴡɪʟʟ ʙᴇ ᴀʙʟᴇ ᴛᴏ ᴜsᴇ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs (like /skip, /stop etc)
 
-3️⃣ **Play Type** [Everyone or Admins] - If admins, only admins present in group can play music on voice chat."""
+3️⃣ ᴘʟᴀʏ ᴛʏᴘᴇ ᴇᴠᴇʀʏᴏɴᴇ ᴏʀ ᴀᴅᴍɪɴs - ɪғ ᴀᴅᴍɪɴs, ᴏɴʟʏ ᴀᴅᴍɪɴs ᴘʀᴇsᴇɴᴛ ɪɴ ɢʀᴏᴜᴘ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜsɪᴄ ᴏɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ."""
 
 HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 /addsudo [Username or Reply to a user]
