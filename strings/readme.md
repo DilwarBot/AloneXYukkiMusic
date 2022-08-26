@@ -4,7 +4,7 @@
 
 | Code | Language | Contributor |
 |-|-------|-------|
-| en | English | Thanks to [TeamYukki](https://t.me/TeamYukki)
+| ts | sukun | Thanks to [TeamSukun](https://t.me/sukunsupports)
 | si | Sinhala  | Thanks to [Damantha](https://t.me/MrItzme) & [Supun](https://t.me/Supunma)
 | hi | Hindi  | Thanks to [TeamYukki](https://t.me/TeamYukki)
 | ar | Arabic | Thanks to [Mustafa](https://t.me/tr_4z)
