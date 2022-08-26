@@ -1,12 +1,12 @@
 {
-    "name": "Yukki Music Bot",
+    "name": "Team Sukun Music",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/c0e014ff34f34d1056627.png",
+    "logo": "https://telegra.ph/file/8836f2a396de04968bbe5.png",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "Yukki",
+    "Sukun",
     "YukkiMusicBot",
     "telegram-bot",
     "pyrogram"
