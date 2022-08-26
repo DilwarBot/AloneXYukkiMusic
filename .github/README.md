@@ -9,7 +9,9 @@
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes with attractive thumbnails.
 * Loop, Seek, Shuffle, Specific Skip, Playlists etc support
-* Multi-Language support
+* Multi-Language supports
+* New language:- Sukun added by Team sukun
+* Assistant Inline button added by Team sukun
 
 
 # ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
